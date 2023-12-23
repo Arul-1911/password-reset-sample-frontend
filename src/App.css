@@ -26,3 +26,7 @@ input.form-control{
 a.btn{
   color: #05b243;
 }
+
+.is-invalid{
+  border-color: #dc3545;
+}
